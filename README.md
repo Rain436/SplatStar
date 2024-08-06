@@ -1,0 +1,2 @@
+# SplatStar
+Splatoon 1 
